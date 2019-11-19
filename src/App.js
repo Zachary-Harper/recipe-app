@@ -4,7 +4,7 @@ import RecipeSearcher from './components/RecipeSearcher/Recipe-Searcher';
 
 function App() {
   return (
-    <div>
+    <div className="App">
      <RecipeSearcher />
     </div>
   );
